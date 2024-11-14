@@ -1,6 +1,6 @@
 
 #PureEarth:
-A front-end Amazon website clone using HTML and CSS.
+A front-end Nature Blog website  using HTML and CSS.
 
 #Requirements:
 Text editor (VS Code, Sublime)
